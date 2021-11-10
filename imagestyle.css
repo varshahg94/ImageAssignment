@@ -1,0 +1,11 @@
+.container{
+width: 62%;
+margin-top: 3%;
+background-color: lavender;
+}
+
+h5{
+  text-overflow: ellipsis;
+  width: 200px;
+  overflow: hidden;
+}
